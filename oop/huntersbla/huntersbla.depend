@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1591960282 source:/home/jamala/Documents/oop/huntersbla/main.cpp
+	<iostream>
+	<sstream>
+	"library/linsearch.hpp"
+	"library/summation.hpp"
+	"library/stringstreamenumerator.hpp"
+	"library/seqinfileenumerator.hpp"
+
+1555575298 /home/jamala/Documents/oop/huntersbla/library/linsearch.hpp
+	"procedure.hpp"
+
+1588254398 /home/jamala/Documents/oop/huntersbla/library/procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1502810830 /home/jamala/Documents/oop/huntersbla/library/enumerator.hpp
+
+1587719238 /home/jamala/Documents/oop/huntersbla/library/summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1554933624 /home/jamala/Documents/oop/huntersbla/library/stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1535995980 /home/jamala/Documents/oop/huntersbla/library/seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+

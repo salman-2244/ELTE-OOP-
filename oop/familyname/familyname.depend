@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1590353074 source:c:\users\cemal\onedrive\masaüstü\ders\oop\familyname\main.cpp
+	<iostream>
+	"library/maxsearch.hpp"
+	"library/summation.hpp"
+	"library/seqinfileenumerator.hpp"
+
+1589917759 c:\users\cemal\onedrive\masaüstü\ders\oop\familyname\library\maxsearch.hpp
+	"procedure.hpp"
+
+1589917759 c:\users\cemal\onedrive\masaüstü\ders\oop\familyname\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1589917759 c:\users\cemal\onedrive\masaüstü\ders\oop\familyname\library\enumerator.hpp
+
+1589917759 c:\users\cemal\onedrive\masaüstü\ders\oop\familyname\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1589917759 c:\users\cemal\onedrive\masaüstü\ders\oop\familyname\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+

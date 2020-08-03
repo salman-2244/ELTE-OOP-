@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1591973605 source:/home/jamala/Documents/oop/oopexamfirstpart/main.cpp
+	<iostream>
+	"library/seqinfileenumerator.hpp"
+	"library/summation.hpp"
+	"library/stringstreamenumerator.hpp"
+	"library/linsearch.hpp"
+
+1560179196 /home/jamala/Documents/oop/oopexamfirstpart/library/seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1502810830 /home/jamala/Documents/oop/oopexamfirstpart/library/enumerator.hpp
+
+1591972500 /home/jamala/Documents/oop/oopexamfirstpart/library/summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1586934366 /home/jamala/Documents/oop/oopexamfirstpart/library/procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1554933622 /home/jamala/Documents/oop/oopexamfirstpart/library/stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1590765984 /home/jamala/Documents/oop/oopexamfirstpart/library/linsearch.hpp
+	"procedure.hpp"
+

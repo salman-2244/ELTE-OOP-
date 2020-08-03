@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1591636225 source:/home/jamala/Documents/oop/examprep/main.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	"library/maxsearch.hpp"
+	"library/summation.hpp"
+	"library/linsearch.hpp"
+	"library/seqinfileenumerator.hpp"
+	"library/stringstreamenumerator.hpp"
+
+1547545600 /home/jamala/Documents/oop/examprep/library/maxsearch.hpp
+	"procedure.hpp"
+
+1555648484 /home/jamala/Documents/oop/examprep/library/procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1502810830 /home/jamala/Documents/oop/examprep/library/enumerator.hpp
+
+1587719238 /home/jamala/Documents/oop/examprep/library/summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1555575298 /home/jamala/Documents/oop/examprep/library/linsearch.hpp
+	"procedure.hpp"
+
+1535995980 /home/jamala/Documents/oop/examprep/library/seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1554933624 /home/jamala/Documents/oop/examprep/library/stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+

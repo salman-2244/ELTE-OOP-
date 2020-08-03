@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1593559626 source:/home/jamala/Documents/oop/hw7/main.cpp
+	<iostream>
+	<iostream>
+	"library/maxsearch.hpp"
+	"library/summation.hpp"
+	"library/seqinfileenumerator.hpp"
+	"library/linsearch.hpp"
+
+1547545600 /home/jamala/Documents/oop/hw7/library/maxsearch.hpp
+	"procedure.hpp"
+
+1555648484 /home/jamala/Documents/oop/hw7/library/procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1502810830 /home/jamala/Documents/oop/hw7/library/enumerator.hpp
+
+1587719238 /home/jamala/Documents/oop/hw7/library/summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1535995980 /home/jamala/Documents/oop/hw7/library/seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1555575298 /home/jamala/Documents/oop/hw7/library/linsearch.hpp
+	"procedure.hpp"
+

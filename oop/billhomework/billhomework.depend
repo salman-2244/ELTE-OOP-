@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1586301300 source:c:\users\cemal\onedrive\masaüstü\os1sthw\billhomework\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+
+1586301300 
+
+1586297702 source:/home/jamala/Downloads/billhomework/main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+
