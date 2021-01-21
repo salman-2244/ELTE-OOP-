@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1588721492 source:c:\users\cemal\onedrive\masaüstü\opsys\hunterhw10\main.cpp
+	<iostream>
+	"hunter.h"
+	"Trophy.h"
+
+1588720871 c:\users\cemal\onedrive\masaüstü\opsys\hunterhw10\hunter.h
+	<iostream>
+	<vector>
+	"Trophy.h"
+
+1588766383 c:\users\cemal\onedrive\masaüstü\opsys\hunterhw10\trophy.h
+	<iostream>
+

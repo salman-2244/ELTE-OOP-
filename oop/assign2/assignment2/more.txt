@@ -1,0 +1,5 @@
+John ChampBla sardine 23 catfish 10
+Mary LAC0512 carp 12 catfish 46
+George LAC0514 carp 45 carp 81 catfish 26
+Missy LAC0517 carp 5 carp 3 catfish 16
+Sheldon LAC0511 sardine 45 carp 53 catfish 96

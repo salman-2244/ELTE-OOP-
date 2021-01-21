@@ -1,9 +1,0 @@
-George LakeChamp tuna 180 sardine 27 catfish 64
-George LakeChamp2 tuna 70 sardine 68
-Missy BigLake salmon 57 carp 34 sardine 76
-Missy BigLake2 salmon 47 sardine 106
-Sheldon LAC0511 sardine 25 carp 53 catfish 96
-Sheldon LAC0514 carp 33 catfish 42 sardine 35
-Sheldon LAC0517 carp 13 sardine 45 catfish 96
-Tom Champ sardine 45 carp 81 catfish 26
-Tom Champ2 sardine 75 catfish 46

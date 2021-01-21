@@ -1,0 +1,6 @@
+George LakeChamp tuna 180 carp 27 catfish 64
+Missy BigLake salmon 57 carp 34 catfish 76
+Sheldon LAC0511 carp 53 catfish 96
+Sheldon LAC0514 carp 33 catfish 42
+Sheldon LAC0517 carp 13 catfish 96
+Tom Champ carp 45 carp 81 catfish 26

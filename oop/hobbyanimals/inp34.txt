@@ -1,4 +1,0 @@
-D Minnie 50
-F Nemo 70
-B Hedwig 20
-gbbb

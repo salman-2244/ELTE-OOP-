@@ -1,3 +1,0 @@
-Customer1 YamahaAxis50 oilchange 20 motorblock 100 cablesealing 10 YamahaAxis60 oilchange 20 motorblock 100 cablesealing 10 YamahaAxis10 oilchange 20 motorblock 100 cablesealing 10
-Customer1 Honda oilchange 100
-

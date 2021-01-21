@@ -1,0 +1,4 @@
+Missy BigLake2019 salmon 47 sardine 106
+Missy BigLake2020 salmon 20 carp 154
+Tom carp 81 catfish 26
+Tom Champ2 catfish 46

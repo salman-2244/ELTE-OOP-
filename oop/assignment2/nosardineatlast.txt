@@ -1,5 +1,0 @@
-John LakeChamp2019 carp 23 tuna 60
-John ChampBla carp 52 catfish 10
-PENNY Kiliti0512 salmon 15 sardine catfish 96
-PENNY Szeged0820 salmon 45 sardine 13 catfish 96
-PENNY Gesztes0906 carp 85 catfish 53 tuna 96

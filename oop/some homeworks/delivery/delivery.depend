@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1588113901 source:c:\users\cemal\onedrive\masaüstü\os1sthw\delivery\driver.cpp
+	"driver.h"
+
+1588113750 c:\users\cemal\onedrive\masaüstü\os1sthw\delivery\driver.h
+	<iostream>
+	"Product.h"
+	"vehicle.h"
+
+1588113918 source:c:\users\cemal\onedrive\masaüstü\os1sthw\delivery\main.cpp
+	<iostream>
+	"driver.h"
+	"vehicle.h"
+
+1588114054 c:\users\cemal\onedrive\masaüstü\os1sthw\delivery\vehicle.h
+	<vector>
+	<iostream>
+	"fueltank.h"
+	"engine.h"
+	"Product.h"
+
+1588111113 source:c:\users\cemal\onedrive\masaüstü\os1sthw\delivery\vehicle.cpp
+	"vehicle.h"
+
+1588111202 c:\users\cemal\onedrive\masaüstü\os1sthw\delivery\fueltank.h
+
+1588103490 c:\users\cemal\onedrive\masaüstü\os1sthw\delivery\engine.h
+	<iostream>
+
+1588107679 c:\users\cemal\onedrive\masaüstü\os1sthw\delivery\product.h
+	<iostream>
+

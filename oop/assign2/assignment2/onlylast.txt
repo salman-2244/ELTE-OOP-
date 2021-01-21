@@ -1,0 +1,4 @@
+Anna Liti1249 tuna 45 salmon 12 catfish 46
+Billy Hiti0519 carp 35 tuna 12 catfish 46
+Missy Comp121 catfish 15 salmon 92 carp 86
+Penny LakeChampionship sardine 45 tuna 53 catfish 96 sardine 82
