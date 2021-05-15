@@ -1,8 +1,0 @@
-sys
-|- file(2)
-|-f
-  |-file(20)
-  |-file(10)
-  |-ff
-     |-file(100)
-|file(3)
